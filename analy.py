@@ -1,4 +1,4 @@
-# program_b.py
+# analy.py
 from tqdm import tqdm
 import json
 import argparse
