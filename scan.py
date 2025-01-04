@@ -1,4 +1,4 @@
-# program_a.py
+# scan.py
 
 import os
 import json
